@@ -5,7 +5,9 @@ categories: [Books]
 pin: true
 ---
 
-Below is a list of books I am reading, pulled from the [Hardcover.app](https://hardcover.app) API.
+Below is a list of books I am currently reading. For a full list of books I've read and want to read, head on over to my [Hardcover page](https://hardcover.app/@coreycarvalho).
+
+This page is updated automagically. If you are interested in how this is done, you can view (and use) the code [here](https://github.com/coreycarvalho/ponderingpen.ink/blob/main/hardcover_fetcher.rb).
 
 <div class="books-page">
   <h1>Currently Reading</h1>
