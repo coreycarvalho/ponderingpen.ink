@@ -1,8 +1,9 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.4"
-gem "csv"
-gem "base64"
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.2.0"
+gem "httparty", "~> 0.22.0"
 
 gem 'jekyll-theme-chirpy', '~> 7.2', '>= 7.2.4'
 
@@ -14,7 +15,7 @@ end
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
-  gem "tzinfo-data"
+  gem "tzinfo-data", "~> 1.2023" # Adding a loose pin
 end
 
 # Performance-booster for watching directories on Windows
