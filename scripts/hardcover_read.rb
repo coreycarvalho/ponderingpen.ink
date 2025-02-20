@@ -12,17 +12,14 @@ GRAPHQL_ENDPOINT = 'https://api.hardcover.app/v1/graphql'
 # GraphQL query for Read books in 2025 using last_read_date
 GRAPHQL_QUERY = <<-GRAPHQL
 query ReadBooks2025($limit: Int, $offset: Int) {
-  list_books(
+  user_books(
     distinct_on: book_id
     limit: $limit
     offset: $offset
     where: {
-      user_books: {
-        user_id: { _eq: #{USER_ID} },
-        user_book_status: { status: { _eq: "Read" } },
-        last_read_date: { _gte: "2025-01-01", _lt: "2026-01-01" }
-      }
-    }
+      user_id: {_eq: #{USER_ID} },
+      user_book_status: {status: {_eq: "Read"}},
+      last_read_date: {_gte: "2025-01-01", _lt: "2026-01-01"}}
   ) {
     book {
       title
@@ -52,7 +49,7 @@ response = HTTParty.post(
 
 # Parse the response and extract book data
 books = if response.code == 200
-          data = response.parsed_response.dig('data', 'list_books') || []
+          data = response.parsed_response.dig('data', 'user_books') || []
           data.map do |entry|
             book = entry['book']
             {
