@@ -12,14 +12,14 @@ tags:
 
 While searching—yet again—for the best books on writing, I spiraled into self-reflection and asked myself some hard questions. *Why can't I just write? Why can't I just play chess?  Why can't I do anything without overthinking it?*
 
-Ask my Zettelkasten group, and they'll probably say I've been a critical asshole lately. Bob Doto[^1] said it best: "Honestly, just write more, man." Man, if only it were that simple. Turns out I have a little something called perfectionism—yes, in the clinical sense.
+Ask my writing group, and they'll probably say I've been a critical asshole lately. Someone in the group said it best: "Honestly, just write more, man." Man, if only it were that simple. Turns out I have a little something called perfectionism—yes, in the clinical sense.
 
 Lately, I've noticed something unsettling beneath my struggles. What once fueled my growth behind the scenes has now become my biggest roadblock. Perfectionism used to push me forward, but now it’s keeping me from even starting.
 ### Perfectionism
 
-Perfectionism is the tendency to demand of others or of oneself an extremely high or even flawless level of performance, in excess of what is required by the situation[^2] . While not a diagnosis on its own, it can be used, in conjunction with other symptoms and traits, to diagnose Obsessive Compulsive Personality Disorder[^3] .
+Perfectionism is the tendency to demand of others or of oneself an extremely high or even flawless level of performance, in excess of what is required by the situation[^1] . While not a diagnosis on its own, it can be used, in conjunction with other symptoms and traits, to diagnose Obsessive Compulsive Personality Disorder[^2] .
 
-Let's be clear about one thing up front: there should be no value judgment placed on perfectionism. Perfectionism is not inherently good nor bad. *Adaptive perfectionism*, a type of healthy perfectionism, advances you toward your goals and can help people feel fulfilled and happy. *Maladaptive perfectionism* is when things start to spiral out of control, causing "severe stress and anxiety"[^4] . Basically, perfectionism can be your biggest blessing or your biggest curse[^5] .
+Let's be clear about one thing up front: there should be no value judgment placed on perfectionism. Perfectionism is not inherently good nor bad. *Adaptive perfectionism*, a type of healthy perfectionism, advances you toward your goals and can help people feel fulfilled and happy. *Maladaptive perfectionism* is when things start to spiral out of control, causing "severe stress and anxiety"[^3] . Basically, perfectionism can be your biggest blessing or your biggest curse[^4] .
 
 I’m no psychologist, but I’ve noticed a pattern in myself. I procrastinate because I don’t feel ready. I over-optimize because I think there’s a “correct” way to do everything. I consume more information than I create. And the worst part? I feel ashamed about all of it. I catch myself spending more time reading about how to write than actually writing—more time planning than doing. It's holding me back and ruining my hobbies.
 
@@ -59,8 +59,7 @@ I also need to stop avoiding criticism. Chess tournaments mean post-game analysi
 But most of all? I need to have fun. If I can’t even enjoy my own damn hobbies, then what’s the point?
 
 ---
-[^1]:  Bob is a great dude--go visit his page at https://bobdoto.computer.
-[^2]:  See https://dictionary.apa.org/perfectionism for the full definition.
-[^3]:  https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/obsessive-compulsive-personality-disorder-ocpd -- the DSM-5 makes multiple mentions of "perfection", "perfect", and "perfectionism" as part of the diagnosis.
-[^4]:  https://www.psychologytoday.com/us/blog/click-here-for-happiness/202309/what-is-maladaptive-perfectionism -- on Adaptive vs Maladaptive Perfectionism.
-[^5]:  https://hbr.org/2018/12/the-pros-and-cons-of-perfectionism-according-to-research -- this article discusses some of the research that has gone into perfectionism. It highlights how perfectionists tend to perform better in the workplace while simultaneously impacting their mental health.
+[^1]:  See https://dictionary.apa.org/perfectionism for the full definition.
+[^2]:  https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/obsessive-compulsive-personality-disorder-ocpd -- the DSM-5 makes multiple mentions of "perfection", "perfect", and "perfectionism" as part of the diagnosis.
+[^3]:  https://www.psychologytoday.com/us/blog/click-here-for-happiness/202309/what-is-maladaptive-perfectionism -- on Adaptive vs Maladaptive Perfectionism.
+[^4]:  https://hbr.org/2018/12/the-pros-and-cons-of-perfectionism-according-to-research -- this article discusses some of the research that has gone into perfectionism. It highlights how perfectionists tend to perform better in the workplace while simultaneously impacting their mental health.
